@@ -1,0 +1,2 @@
+Hello, I am  writing this to the file
+ This is appended text
